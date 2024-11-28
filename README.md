@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Nguyen Viet Cong
+Hi, I'm Dinh Cong Thien
 
 # 📊 GitHub Stats:
 <table style="width:100%;">
