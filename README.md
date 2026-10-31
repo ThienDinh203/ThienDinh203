@@ -13,12 +13,6 @@ I am a proactive Embedded Software Engineer with a solid foundation in C/C++, Li
 ![](https://streak-stats.demolab.com/?user=ThienDinh203&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ThienDinh203&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ThienDinh203&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ThienDinh203&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=ThienDinh203&icon=0&color=0)](https://visitcount.itsvg.in)
 
